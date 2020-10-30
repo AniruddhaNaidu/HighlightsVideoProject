@@ -1,2 +1,2 @@
 # HighlightsVideoProject
-In this project I have used MoviePy, SoundPy, Pyloudnorm libraries to create highlights of a given Match Video. 
+In this project I have used MoviePy, SoundPy, Pyloudnorm libraries to create highlights of a given Match Video. The Program creates clips from the user selected Video in accordance to the clip start and clip end timing described in a user created video file. The algorithm then selects the top 15 Loudest clips and then sorts the clips in ascending order of their time sequence. Thus creating a higlights video. 
